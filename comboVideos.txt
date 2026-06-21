@@ -31,9 +31,18 @@ https://lemonsushi.com/uploads/ttchop_ana/2026-06-17_07-26-16.MOV,
 https://lemonsushi.com/uploads/ttchop_ana/2026-06-17_07-26-23.MOV
 
 Creatine:
-/combo https://lemonsushi.com/uploads/ttchop_ana/2026-06-20_14-04-33.mp3, https://files.lemonsushi.com/achusalud/ttchop/creatine01/01.mp4, 
+/combo https://lemonsushi.com/uploads/ttchop_ana/2026-06-20_14-04-33.mp3, 
+https://files.lemonsushi.com/achusalud/ttchop/creatine01/01.mp4, 
 https://files.lemonsushi.com/achusalud/ttchop/creatine01/02.mp4, 
 https://files.lemonsushi.com/achusalud/ttchop/creatine01/03.mp4, 
 https://files.lemonsushi.com/achusalud/ttchop/creatine01/04.mp4, 
 https://files.lemonsushi.com/achusalud/ttchop/creatine01/05.mp4, 
 https://files.lemonsushi.com/achusalud/ttchop/creatine01/06.mp4
+
+Bag:
+/combo https://lemonsushi.com/uploads/ttchop_ana/2026-06-21_13-12-03.mp3, 
+https://files.lemonsushi.com/achusalud/ttchop/bag01/01.mp4, 
+https://files.lemonsushi.com/achusalud/ttchop/bag01/02.mp4, 
+https://files.lemonsushi.com/achusalud/ttchop/bag01/03.mp4, 
+https://files.lemonsushi.com/achusalud/ttchop/bag01/04.mp4, 
+https://files.lemonsushi.com/achusalud/ttchop/bag01/05.mp4
