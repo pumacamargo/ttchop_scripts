@@ -46,3 +46,11 @@ https://files.lemonsushi.com/achusalud/ttchop/bag01/02.mp4,
 https://files.lemonsushi.com/achusalud/ttchop/bag01/03.mp4, 
 https://files.lemonsushi.com/achusalud/ttchop/bag01/04.mp4, 
 https://files.lemonsushi.com/achusalud/ttchop/bag01/05.mp4
+
+Umbrella Fan
+/combo https://lemonsushi.com/uploads/ttchop_ana/2026-06-21_13-12-03.mp3, 
+https://files.lemonsushi.com/achusalud/ttchop/umbrelaFan01/01.mp4, 
+https://files.lemonsushi.com/achusalud/ttchop/umbrelaFan01/02.mp4, 
+https://files.lemonsushi.com/achusalud/ttchop/umbrelaFan01/03.mp4, 
+https://files.lemonsushi.com/achusalud/ttchop/umbrelaFan01/04.mp4, 
+https://files.lemonsushi.com/achusalud/ttchop/umbrelaFan01/05.mp4
